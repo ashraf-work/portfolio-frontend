@@ -53,13 +53,6 @@ export const topics = [
     blockAt: "max-[640px]:block",
   },
   {
-    name: "consistency",
-    icon: <FaRegHourglassHalf className="size-4" />,
-    path: "/consistency",
-    hiddenAt: "max-[770px]:hidden",
-    blockAt: "max-[770px]:block",
-  },
-  {
     name: "contact",
     icon: <RiMessage2Line className="size-4" />,
     path: "/contact",

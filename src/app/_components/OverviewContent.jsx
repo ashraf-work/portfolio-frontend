@@ -11,7 +11,16 @@ export default async function OverviewContent() {
     }
   );
 
-  const overviewData = (await res.json())?.data;
+  const json = await res.json();
+  const overviewData = json?.data;
+
+  if (!overviewData) {
+    return (
+      <div className="flex-3 max-w-4xl">
+        <p className="text-gray-500">Failed to load overview data.</p>
+      </div>
+    );
+  }
 
   return (
     <div className="flex-3 max-w-4xl">
