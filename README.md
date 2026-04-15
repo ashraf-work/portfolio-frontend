@@ -2,7 +2,7 @@
 
 A modern, responsive, and fast portfolio website built to showcase my journey as a Full-Stack Developer. Designed with performance and aesthetics in mind, this portfolio highlights my projects, skills, achievements, blogs, and experiences.
 
-**Live Website:** [ashrafsaleem.dev](https://ashraf.dev/)
+**Live Website:** [ashrafsaleem.online](https://ashrafsaleem.online/)
 
 ## Overview
 
@@ -36,15 +36,15 @@ This portfolio is a representation of my personal brand as a developer. Built us
 
 ## Deployment
 
-The portfolio is deployed on **Vercel** with a custom domain `ashrafsaleem.dev`.
+The portfolio is deployed on **Vercel** with a custom domain `ashrafsaleem.online`.
 
 
 ## Contact
 
 If you like the design or want to collaborate, feel free to connect!
 
-- **Portfolio:** [ashrafsaleem.dev](https://ashraf.dev/)
-- **GitHub:** [github.com/ashrafworks](https://github.com/ashrafworks)
+- **Portfolio:** [ashrafsaleem.online](https://ashrafsaleem.online/)
+- **GitHub:** [github.com/ashraf-work](https://github.com/ashraf-work)
 - **LinkedIn:** [linkedin.com/in/ashrafsaleem](https://linkedin.com/in/ashraf-saleem0)
 
 
