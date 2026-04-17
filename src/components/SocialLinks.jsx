@@ -13,8 +13,8 @@ export default function SocialLinks() {
     {
       name: "GitHub",
       icon: <FaGithub className="size-4" />,
-      userName: "AshrafWorks",
-      link: "https://github.com/ashrafworks",
+      userName: "ashraf-work",
+      link: "https://github.com/ashraf-work",
     },
     {
       name: "LinkedIn",
@@ -25,14 +25,14 @@ export default function SocialLinks() {
     {
       name: "Instagram",
       icon: <FaInstagram className="size-4" />,
-      userName: "ashrafsaleem.dev",
-      link: "https://instagram.com/ashrafsaleem.dev",
+      userName: "ashrafsaleem.online",
+      link: "https://instagram.com/ashrafsaleem.online",
     },
     {
       name: "Discord",
       icon: <FaDiscord className="size-4" />,
-      userName: "ashrafsaleem99",
-      link: "https://discord.com/users/1352502889490282323",
+      userName: "ashrafsaleem.online",
+      link: "https://discord.com/channels/1494560980087345204",
     },
   ];
 
